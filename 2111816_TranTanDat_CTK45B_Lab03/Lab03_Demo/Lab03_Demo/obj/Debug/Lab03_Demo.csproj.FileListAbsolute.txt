@@ -1,0 +1,33 @@
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+D:\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+C:\Users\CICT\Downloads\2111816_TranTanDat_CTK45B_Lab03\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\DanhSachSV.txt
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\DanhSachSV.txt
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+C:\Users\USER\Downloads\2111816_TranTanDat_CTK45B_Lab03 (1)\2111816_TranTanDat_CTK45B_Lab03\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
